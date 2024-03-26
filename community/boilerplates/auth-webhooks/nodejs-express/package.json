@@ -10,7 +10,7 @@
   "author": "wawhal",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.19.2",
     "firebase-admin": "^5.12.1",
     "request": "^2.87.0"
   }
